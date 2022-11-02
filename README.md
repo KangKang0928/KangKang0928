@@ -8,3 +8,5 @@
 KangKang0928/KangKang0928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kangkang0928.kangkang0928.readme)
