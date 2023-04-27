@@ -1,10 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kangkang0928" style="height:150px;"> 
 
-- 👋 Hi, I’m @KangKang0928
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @KangKang0928
+- I’m interested in photograph
+- I’m currently learning AI
+- 500px:https://500px.me/KangX
+- vx:SSSSSSSVIP
 
 <!---
 KangKang0928/KangKang0928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
