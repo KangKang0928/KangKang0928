@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kangkang0928" style="height:150px;"> 
 
 - Hi, I’m @KangKang0928
-- I’m interested in photograph
-- I’m currently learning AI
+- 稀饭摄影📸️
+- 无限进步，不断学习
 - 500px:https://500px.me/KangX
 - vx:SSSSSSSVIP
 
